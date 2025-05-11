@@ -6,6 +6,11 @@ This repository demonstrates how to use Terraform to create and manage Google Cl
 
 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared among co-workers, treated as code, edited, reviewed, and versioned.
 
+## Video
+
+https://youtu.be/wk5tHdvCXOY
+
+
 ## Prerequisites
 
 Before getting started, ensure you have:
